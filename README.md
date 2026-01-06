@@ -12,7 +12,6 @@ El objetivo del trabajo es el análisis de datos de transcriptómica a nivel de 
 
 El repositorio está organizado de la siguiente manera:
 
-
 ```
 prostate-scRNAseq-tfm/
 ├── Scripts/
@@ -20,7 +19,6 @@ prostate-scRNAseq-tfm/
 ├── Memoria/
 └── README.md
 ```
-
 
 ---
 
@@ -69,7 +67,5 @@ Este repositorio proporciona los scripts de análisis, los resultados finales y 
 
 ## 👤 Autoría
 
-Trabajo realizado por **Silvia Arroitajauregui Avilés**  
-Máster en Bioinformática y Bioestadística
 Trabajo realizado por **Silvia Arroitajauregui Avilés**  
 Máster en Bioinformática y Bioestadística
