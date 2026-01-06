@@ -48,7 +48,7 @@ Contiene el documento completo del Trabajo Final de Máster en formato PDF, dond
 
 ---
 
-## Disponibilidad de los datos
+## 🧬 Disponibilidad de los datos
 
 Los datos originales de scRNA-seq utilizados en este estudio no se incluyen en este repositorio debido a su gran tamaño y a las limitaciones de almacenamiento de GitHub.
 
@@ -58,13 +58,13 @@ Siguiendo el pipeline de análisis proporcionado en este repositorio, es posible
 
 ---
 
-## Reproducibilidad
+## 🔁 Reproducibilidad
 
 Este repositorio proporciona los scripts de análisis, los resultados finales y la documentación metodológica necesaria con el objetivo de garantizar la transparencia y reproducibilidad del trabajo.
 
 ---
 
-## Autoría
+## 👤 Autoría
 
 Trabajo realizado por **Silvia Arroitajauregui Avilés**  
 Máster en Bioinformática y Bioestadística
