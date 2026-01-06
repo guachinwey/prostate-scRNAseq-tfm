@@ -65,7 +65,21 @@ Este repositorio proporciona los scripts de análisis, los resultados finales y 
 
 ---
 
+## 📥 Descarga del repositorio
+
+El repositorio puede descargarse de las siguientes maneras:
+
+- **Descarga directa**: haciendo clic en el botón *Code* y seleccionando *Download ZIP*.
+- **Clonado del repositorio** (opción recomendada para reproducir el análisis):
+```
+git clone https://github.com/guachinwey/prostate-scRNAseq-tfm.git
+```
+
+Estas opciones permiten acceder al código y a los resultados proporcionados en este repositorio.
+
+---
+
 ## 👤 Autoría
 
-Trabajo realizado por **Silvia Arroitajauregui Avilés**  
-Máster en Bioinformática y Bioestadística
+Trabajo realizado por **Silvia Arroitajauregui Avilés**.  
+Máster en Bioinformática y Bioestadística.
