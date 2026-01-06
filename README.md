@@ -53,7 +53,7 @@ Contiene el documento completo del Trabajo Final de Máster en formato PDF, dond
 
 Los datos originales de scRNA-seq utilizados en este estudio no se incluyen en este repositorio debido a su gran tamaño y a las limitaciones de almacenamiento de GitHub.
 
-Todos los conjuntos de datos empleados son de acceso público y pueden obtenerse a través de los repositorios originales (por ejemplo, GEO). Las referencias completas y los identificadores de acceso se encuentran debidamente documentados en la memoria del Trabajo Final de Máster.
+Todos los conjuntos de datos empleados son de acceso público y pueden obtenerse a través de los repositorios originales (GEO). Las referencias completas y los identificadores de acceso se encuentran debidamente documentados en la memoria del Trabajo Final de Máster.
 
 Siguiendo el flujo de trabajo proporcionado en este repositorio, es posible reproducir los resultados descritos en el estudio en la medida en que lo permite la disponibilidad de los datos.
 
