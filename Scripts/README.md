@@ -52,4 +52,4 @@ Los scripts están numerados para indicar el orden lógico de ejecución del pip
   Generación de tablas con los genes diferencialmente expresados más relevantes.
 
   
-- Para una descripción detallada del flujo de trabajo y de los parámetros utilizados, consultar la memoria del Trabajo Final de Máster.
+*Para una descripción detallada del flujo de trabajo y de los parámetros utilizados, consulte el apartado [**Memoria**](./Memoria).*
